@@ -1,0 +1,5 @@
+[::1] GET: /api/user
+[::1] GET: /api/user/41
+[::1] GET: /api/user
+[::1] POST: /api/user
+[::1] PATCH: /api/user
