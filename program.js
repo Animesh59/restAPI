@@ -1,7 +1,7 @@
 const fs = require('fs')
 const express = require('express');
 const users = require('./dataFolder/MOCK_DATA.json');
-const PORT = 3500;
+const PORT = process.env.PORT || 3500;
 
 var app = express();
 
